@@ -1,0 +1,28 @@
+# Data Visualization and Storytelling
+
+## Objective
+Create meaningful visualizations and derive business insights using Tableau.
+
+## Dataset
+Superstore Sales Dataset
+
+## Visualizations Created
+1. Sales by Category
+2. Profit by Category
+3. Monthly Sales Trend
+4. Regional Sales Analysis
+5. Top 10 Customers
+6. Profit by Sub-Category
+
+## Key Insights
+- Technology has the highest sales.
+- West region generates maximum revenue.
+- Sales peak during year-end months.
+- Top customers contribute significantly to revenue.
+- Some sub-categories generate losses.
+
+## Tool Used
+Tableau Public
+
+## Outcome
+Created an interactive dashboard demonstrating business insights through effective visual storytelling.
